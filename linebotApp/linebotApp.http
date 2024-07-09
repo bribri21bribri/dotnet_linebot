@@ -1,0 +1,6 @@
+@linebotApp_HostAddress = http://localhost:5204
+
+GET {{linebotApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
